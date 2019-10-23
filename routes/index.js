@@ -1,4 +1,4 @@
-const express = require(express);
+const express = require('express');
 const postRoutes = require('./post-routers')
 const router = express.Router();
 
